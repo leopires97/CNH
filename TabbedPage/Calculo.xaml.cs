@@ -9,7 +9,12 @@ public partial class Calculo : ContentPage
 
     async void onButtonClicked(object sender, EventArgs args)
     {
-        teste.Text = "212";
+        calcular();
+    }
+
+    async void calcular()
+    {
+        await DisplayAlert("Alert", "deu certo", "ok");
     }
 }
 
