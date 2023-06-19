@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabbedPageSample.Calculo">
+			 
+    <ScrollView>
+        <VerticalStackLayout 
+            Spacing="25" 
+            Padding="10,0" 
+            VerticalOptions="Center">
+               <Frame BorderColor="Grey" Padding="1">
+                   <StackLayout Orientation="Vertical" Padding="5">
+                        <Label FontSize="18" FontAttributes="Bold" Text="Total do número de garras do Pneu:" HorizontalTextAlignment="Center" Padding="5"/>
+                        <Entry x:Name="garras" HorizontalOptions="Center" Placeholder="Digite" MinimumWidthRequest="200" Keyboard="Numeric"/>
+                   </StackLayout>
+               </Frame>
+               <Frame BorderColor="Grey" Padding="5">
+                   <StackLayout Orientation="Vertical" Padding="5">
+                    <Label FontSize="18" FontAttributes="Bold" Text="Número de voltas completas do pneu dianteiro com a tração LIGADA:" HorizontalTextAlignment="Center" Padding="5"/>
+                    <Entry x:Name="voltas" HorizontalOptions="Center" Placeholder="Digita" MinimumWidthRequest="200" Keyboard="Numeric" ReturnType="Next"/>
+                   </StackLayout>
+               </Frame>
+               <Frame BorderColor="Grey" Padding="5" >
+                   <StackLayout Orientation="Vertical" Padding="5">
+                        <Label FontSize="18" FontAttributes="Bold" Text="Número de garras a partir da referência marcada com a tração LIGADA:" HorizontalTextAlignment="Center" Padding="5"/>
+                        <Entry x:Name="garras2" HorizontalOptions="Center" Placeholder="Digite Aqui" MinimumWidthRequest="200" Keyboard="Numeric" ReturnType="Next"/>
+                   </StackLayout>
+               </Frame>
+               <Frame BorderColor="Grey" Padding="5">
+                   <StackLayout Orientation="Vertical" Padding="5">
+                       <Label FontSize="18" FontAttributes="Bold" Text="Número de voltas completas do pneu dianteiro com a tração DESLIGADA:" HorizontalTextAlignment="Center" Padding="5"/>
+                       <Entry x:Name="voltas2" HorizontalOptions="Center" Placeholder="Digite Aqui" MinimumWidthRequest="200" Keyboard="Numeric" ReturnType="Next"/>
+                   </StackLayout>
+               </Frame>
+                <Frame BorderColor="Grey" Padding="5">
+                    <StackLayout Orientation="Vertical" Padding="5">
+                        <Label FontSize="18" FontAttributes="Bold" Text="Número de garras e partir da referência marcada com a tração DESLIGADA" HorizontalTextAlignment="Center" Padding="5"/>
+                        <Entry x:Name="garras3" HorizontalOptions="Center" Placeholder="Digite aqui" MinimumWidthRequest="200" Keyboard="Numeric" ReturnType="Next"/>
+                    </StackLayout>
+                </Frame>
+            <Button Text="Calcule!" FontSize="20" Clicked="onButtonClicked"/>
+        </VerticalStackLayout>
+    </ScrollView>
+ 
+</ContentPage>

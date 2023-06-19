@@ -1,0 +1,16 @@
+2023-06-16 16:30:43.165044-0300 TabbedPage[1697:34202] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1697
+2023-06-16 16:30:43.166169-0300 TabbedPage[1697:34202] SecTaskCopyDebugDescription: TabbedPage[1697]/0#-1 LF=0
+2023-06-16 16:30:43.198149-0300 TabbedPage[1697:34202] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1697
+2023-06-16 16:30:43.198864-0300 TabbedPage[1697:34202] SecTaskCopyDebugDescription: TabbedPage[1697]/0#-1 LF=0
+2023-06-16 16:30:46.132955-0300 TabbedPage[1697:34569] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1697
+2023-06-16 16:30:46.133294-0300 TabbedPage[1697:34569] SecTaskCopyDebugDescription: TabbedPage[1697]/0#-1 LF=0
+2023-06-16 16:30:46.428191-0300 TabbedPage[1697:34202] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=1697
+2023-06-16 16:30:46.428544-0300 TabbedPage[1697:34202] SecTaskCopyDebugDescription: TabbedPage[1697]/0#-1 LF=0
+2023-06-16 16:31:09.722845-0300 TabbedPage[1697:34202] [unspecified] container_query_get_single_result: error = 2→(98) NOT_CODESIGNED
+2023-06-16 16:31:09.723125-0300 TabbedPage[1697:34202] [unspecified] container_system_group_path_for_identifier: error = ((container_error_t)98) NOT_CODESIGNED
+2023-06-16 16:31:09.723322-0300 TabbedPage[1697:34202] [MC] Error getting system group container for systemgroup.com.apple.configurationprofiles: 98
+2023-06-16 16:31:09.723846-0300 TabbedPage[1697:34202] [MC] Failed to get profile system group container path. Overriding with expected path: /Users/leonardopires/Library/Developer/CoreSimulator/Devices/1EA9AAFC-1E97-45BC-9F52-0B091154D888/data/Containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles
+2023-06-16 16:31:09.794881-0300 TabbedPage[1697:34202] Can't find keyplane that supports type 8 for keyboard iPhone-PortraitChoco-DecimalPad; using 27344_PortraitChoco_iPhone-Simple-Pad_Default
+2023-06-16 16:31:13.215301-0300 TabbedPage[1697:34202] WARNING: This app's CFBundleDevelopmentRegion is not a string value. This can lead to unexpected results at runtime. Please change CFBundleDevelopmentRegion in your Info.plist to a string value.
+2023-06-16 16:31:15.294379-0300 TabbedPage[1697:34202] Can't find keyplane that supports type 8 for keyboard iPhone-PortraitChoco-DecimalPad; using 27344_PortraitChoco_iPhone-Simple-Pad_Default
+2023-06-16 16:31:23.841686-0300 TabbedPage[1697:34202] Can't find keyplane that supports type 8 for keyboard iPhone-PortraitChoco-DecimalPad; using 27344_PortraitChoco_iPhone-Simple-Pad_Default

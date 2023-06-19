@@ -1,0 +1,523 @@
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.runtimeconfig.json
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.pdb
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Options.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Primitives.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Graphics.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.CSharp.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.Core.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Primitives.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Registry.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.AppContext.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Buffers.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.Concurrent.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.Immutable.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.NonGeneric.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.Specialized.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Annotations.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.DataAnnotations.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Primitives.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.TypeConverter.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Configuration.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Console.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Core.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Data.Common.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Data.DataSetExtensions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Data.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Contracts.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Debug.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Process.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.StackTrace.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tools.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TraceSource.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tracing.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Drawing.Primitives.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Drawing.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Dynamic.Runtime.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Formats.Asn1.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Formats.Tar.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Globalization.Calendars.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Globalization.Extensions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Globalization.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Compression.Brotli.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Compression.FileSystem.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Compression.ZipFile.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Compression.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.AccessControl.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Primitives.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Watcher.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.IsolatedStorage.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.MemoryMappedFiles.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.AccessControl.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Linq.Expressions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Linq.Parallel.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Linq.Queryable.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Linq.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Memory.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Http.Json.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Http.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.HttpListener.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Mail.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.NameResolution.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.NetworkInformation.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Ping.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Primitives.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Quic.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Requests.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Security.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.ServicePoint.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Sockets.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebClient.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebHeaderCollection.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebProxy.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.Client.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Numerics.Vectors.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Numerics.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ObjectModel.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.DataContractSerialization.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.Uri.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.Xml.Linq.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.Xml.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.DispatchProxy.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.Lightweight.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Extensions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Metadata.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Primitives.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.TypeExtensions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Resources.Reader.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Resources.ResourceManager.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Resources.Writer.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Extensions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Handles.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.JavaScript.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Intrinsics.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Loader.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Numerics.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Formatters.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Json.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Primitives.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Xml.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.AccessControl.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Claims.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Algorithms.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Cng.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Csp.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Encoding.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Primitives.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Principal.Windows.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Principal.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.SecureString.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ServiceModel.Web.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ServiceProcess.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.CodePages.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.Extensions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Encodings.Web.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Json.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.RegularExpressions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Channels.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Overlapped.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Dataflow.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Extensions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Parallel.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Thread.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.ThreadPool.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Timer.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Transactions.Local.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Transactions.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ValueTuple.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Web.HttpUtility.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Web.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Windows.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.Linq.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.ReaderWriter.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.Serialization.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XDocument.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.XDocument.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XmlDocument.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XmlSerializer.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/WindowsBase.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/mscorlib.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/netstandard.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Compatibility.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Xaml.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Essentials.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.CoreLib.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/icudt.dat
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/icudt_CJK.dat
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/icudt_EFIGS.dat
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/icudt_no_CJK.dat
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.dylib
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Native.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Native.dylib
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.dylib
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libicudata.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libicui18n.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libicuuc.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-static.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-stub-static.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-static.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-stub-static.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-static.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-stub-static.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.dylib
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.registrar.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.dylib
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.a
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.dylib
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauiimage.inputs
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauifont.inputs
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauisplash.inputs
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauisplash.stamp
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauiimage.stamp
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/f/MauiInfo.plist
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauifont.stamp
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/f/fa_solid.ttf
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Semibold.ttf
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/_PartialAppManifest.items
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/_BundleResourceWithLogicalName.items
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/_ProcessedImageAssetsPath.items
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/coremlc/_PartialAppManifest.items
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/_ProcessedBundleResourcesPath.items
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/_ProcessedContentPath.items
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.csproj.AssemblyReference.cache
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.AssemblyInfoInputs.cache
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.AssemblyInfo.cs
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.csproj.CoreCompileInputs.cache
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/XamlC.stamp
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.csproj.CopyComplete
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/refint/TabbedPage.dll
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.pdb
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.genruntimeconfig.cache
+/Users/leonardopires/Downloads/maui-samples-main/7.0/Navigation/TabbedPage/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/ref/TabbedPage.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauiimage.inputs
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauifont.inputs
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauisplash.inputs
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauisplash.stamp
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/farmall.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/magnum.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/maxxum.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/puma.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/steiger.png
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauiimage.stamp
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/f/MauiInfo.plist
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mauifont.stamp
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/f/fa_solid.ttf
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Semibold.ttf
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/_PartialAppManifest.items
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/_BundleResourceWithLogicalName.items
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/actool/_ProcessedImageAssetsPath.items
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/coremlc/_PartialAppManifest.items
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/_ProcessedBundleResourcesPath.items
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/_ProcessedContentPath.items
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.csproj.AssemblyReference.cache
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.AssemblyInfoInputs.cache
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.AssemblyInfo.cs
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.csproj.CoreCompileInputs.cache
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/refint/TabbedPage.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.pdb
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.runtimeconfig.json
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.pdb
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Options.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Extensions.Primitives.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Graphics.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.CSharp.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.Core.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.VisualBasic.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Primitives.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Win32.Registry.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.AppContext.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Buffers.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.Concurrent.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.Immutable.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.NonGeneric.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.Specialized.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Collections.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Annotations.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.DataAnnotations.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.EventBasedAsync.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.Primitives.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.TypeConverter.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ComponentModel.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Configuration.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Console.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Core.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Data.Common.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Data.DataSetExtensions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Data.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Contracts.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Debug.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.DiagnosticSource.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.FileVersionInfo.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Process.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.StackTrace.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TextWriterTraceListener.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tools.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.TraceSource.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Diagnostics.Tracing.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Drawing.Primitives.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Drawing.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Dynamic.Runtime.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Formats.Asn1.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Formats.Tar.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Globalization.Calendars.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Globalization.Extensions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Globalization.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Compression.Brotli.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Compression.FileSystem.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Compression.ZipFile.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Compression.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.AccessControl.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.DriveInfo.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Primitives.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.Watcher.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.FileSystem.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.IsolatedStorage.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.MemoryMappedFiles.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.AccessControl.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.Pipes.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.UnmanagedMemoryStream.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.IO.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Linq.Expressions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Linq.Parallel.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Linq.Queryable.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Linq.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Memory.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Http.Json.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Http.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.HttpListener.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Mail.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.NameResolution.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.NetworkInformation.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Ping.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Primitives.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Quic.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Requests.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Security.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.ServicePoint.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.Sockets.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebClient.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebHeaderCollection.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebProxy.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.Client.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.WebSockets.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Net.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Numerics.Vectors.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Numerics.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ObjectModel.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.DataContractSerialization.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.Uri.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.Xml.Linq.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.Xml.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.DispatchProxy.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.ILGeneration.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.Lightweight.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Emit.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Extensions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Metadata.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.Primitives.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.TypeExtensions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Reflection.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Resources.Reader.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Resources.ResourceManager.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Resources.Writer.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.Unsafe.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.CompilerServices.VisualC.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Extensions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Handles.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.JavaScript.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.InteropServices.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Intrinsics.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Loader.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Numerics.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Formatters.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Json.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Primitives.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.Xml.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.Serialization.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Runtime.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.AccessControl.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Claims.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Algorithms.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Cng.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Csp.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Encoding.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.OpenSsl.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.Primitives.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.X509Certificates.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Cryptography.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Principal.Windows.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.Principal.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.SecureString.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Security.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ServiceModel.Web.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ServiceProcess.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.CodePages.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.Extensions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Encoding.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Encodings.Web.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.Json.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Text.RegularExpressions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Channels.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Overlapped.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Dataflow.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Extensions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.Parallel.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Tasks.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Thread.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.ThreadPool.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.Timer.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Threading.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Transactions.Local.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Transactions.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.ValueTuple.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Web.HttpUtility.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Web.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Windows.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.Linq.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.ReaderWriter.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.Serialization.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XDocument.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.XDocument.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XPath.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XmlDocument.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.XmlSerializer.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Xml.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/WindowsBase.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/mscorlib.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/netstandard.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Compatibility.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.Xaml.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Controls.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.Maui.Essentials.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/System.Private.CoreLib.dll
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/icudt.dat
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/icudt_CJK.dat
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/icudt_EFIGS.dat
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/icudt_no_CJK.dat
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.IO.Compression.Native.dylib
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Native.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Native.dylib
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Net.Security.Native.dylib
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libSystem.Security.Cryptography.Native.Apple.dylib
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libicudata.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libicui18n.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libicuuc.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-static.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-debugger-stub-static.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-static.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-diagnostics_tracing-stub-static.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-static.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmono-component-hot_reload-stub-static.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libmonosgen-2.0.dylib
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Microsoft.MacCatalyst.registrar.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet-debug.dylib
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.a
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/libxamarin-dotnet.dylib
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/XamlC.stamp
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.csproj.CopyComplete
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/TabbedPage.genruntimeconfig.cache
+/Users/leonardopires/Projects/CNH Trator/TabbedPage/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/ref/TabbedPage.dll
